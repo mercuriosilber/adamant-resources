@@ -21,5 +21,17 @@ iPhones: all Plus sizes, **and iPhone X**
 \*@2.png - 2x resolution  
 \*@3.png - 3x resolution  
 
+## Sizes
+
+|Idiom|Size|Scale|
+|---|---|---|
+|Notification|20x20|x2 and x3|
+|Settings|29x29|x2 and x3|
+|Spotlight|40x40|x2 and x3|
+|iPhone App|60x60|x2 and x3|
+|iPad App|76x76|x2|
+|iPad Pro App|83.5x83.5|x2|
+|App Store|1024x1024|x1|
+
 ## More info:
 [Apple Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/app-icon/)
