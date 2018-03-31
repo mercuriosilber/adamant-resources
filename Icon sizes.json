@@ -1,0 +1,30 @@
+[
+	{
+		"idiom": "Notification",
+		"size": "20x20"
+	},
+	{
+		"idiom": "Settings",
+		"size": "29x29"
+	},
+	{
+		"idiom": "Spotlight",
+		"size": "40x40"
+	},
+	{
+		"idiom": "iPhone App",
+		"size": "60x60"
+	},
+	{
+		"idiom": "iPad App",
+		"size": "76x76"
+	},
+	{
+		"idiom": "iPad Pro App",
+		"size": "83.5x83.5"
+	}
+	{
+		"idiom": "App Store",
+		"size": "1024x1024"
+	},
+]

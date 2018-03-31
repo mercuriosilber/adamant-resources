@@ -1,2 +1,2 @@
 # adamant-appstore
-App Store resources.
+ADAMANT App Store resources.
