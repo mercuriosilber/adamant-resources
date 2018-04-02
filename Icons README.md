@@ -12,9 +12,9 @@
 
 All sizes specified in points and must be provided in x2 and x3 resolutions. x1 used in older devices and iOS versions, which we do not plan to support.
 
-App Store icon must be provided only at 1024x1024 resolution.
+App Store image must be provided only at 1024x1024 resolution.
 
-For this moment there is no iPad devices with x3 screen resolution, so iPad specified icons needs only x2 resolution.
+For this moment there is no iPad devices with x3 screen resolution, so iPad specified icons only needs x2 resolution.
 
 #### 1x resolution devices:
 iPhones: 2G, 3G, 3GS  
