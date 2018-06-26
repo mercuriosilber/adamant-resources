@@ -9,7 +9,7 @@
 		"subtitle": {
 			"description": "A summary of your app that will appear under your app’s name on the App Store for customers with devices running iOS 11 or later",
 			"max-length": 30,
-			"value": "The future of messaging."
+			"value": "Messenger on a Blockchain"
 		},
 		"privacy-policy-url": {
 			"description": "A URL that links to your organization's privacy policy. Privacy policies are required for apps that are Made for Kids or offer auto-renewable or free subscriptions. They are also required for apps with account registration, apps that access a user’s existing account, or as otherwise required by law. Privacy policies are recommended for apps that collect user- or device-related data",
@@ -30,7 +30,7 @@
 		"app-description": {
 			"description": "A description of your app, detailing features and functionality. It will also be used for your Apple Watch app"
 			"max-length" 4000,
-			"value": ""
+			"value": "ADAMANT is the most secure and anonymous messenger, encrypted with Blockchain.\n\nHighlights:\n\n– The most secure and anonymous messenger (see comparison table)\n– Trusted. Open-source project.\n– The only one which is Blockchain-powered\n– In-chat ADM/ ETH/ BTC/ etc. payments (in development for iOS platform)\n– Get welcome 0.09 ADM token for free messaging now\n"
 		},
 		"support-url": {
 			"description": "A URL with support information for your app. This URL will be visible on the App Store",
