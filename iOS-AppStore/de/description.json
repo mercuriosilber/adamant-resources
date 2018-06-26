@@ -9,7 +9,7 @@
 		"subtitle": {
 			"description": "A summary of your app that will appear under your app’s name on the App Store for customers with devices running iOS 11 or later",
 			"max-length": 30,
-			"value": "Messenger on a Blockchain"
+			"value": "Messenger in der Blockchain"
 		},
 		"privacy-policy-url": {
 			"description": "A URL that links to your organization's privacy policy. Privacy policies are required for apps that are Made for Kids or offer auto-renewable or free subscriptions. They are also required for apps with account registration, apps that access a user’s existing account, or as otherwise required by law. Privacy policies are recommended for apps that collect user- or device-related data",
@@ -20,17 +20,17 @@
 		"promotional-text": {
 			"description": "Promotional text lets you inform your App Store visitors of any current app features without requiring an updated submission. This text will appear above your description on the App Store for customers with devices running iOS 11 or later, and macOS 10.13 or later",
 			"max-length": 170,
-			"value": "Absolutely anonymous. Blockchain-powered. Open Source and Trusted. Proper business solution."
+			"value": "Absolut anonym. Die Macht der Blockchain. Open Source and vertraulich. Ein zuverlässige Businesslösung."
 		},
 		"keywords": {
 			"Description": "One or more keywords that describe your app. Keywords make App Store search results more accurate. Separate keywords with a comma",
 			"max-length": 100,
-			"value": "Blockchain, Messenger, Bitcoin, Secure, Anonymous, Business, Chat, WhatsApp, Telegram, Viber, Skype"
+			"value": "Blockchain, Messenger, Bitcoin, Sicher, Anonym, Business, Chat, WhatsApp, Telegram, Viber, Skype"
 		},
 		"app-description": {
 			"description": "A description of your app, detailing features and functionality. It will also be used for your Apple Watch app"
 			"max-length" 4000,
-			"value": "ADAMANT is the most secure and anonymous messenger, encrypted with Blockchain.\n\nHighlights:\n\n– The most secure and anonymous messenger (see comparison table)\n– Trusted. Open-source project.\n– The only one which is Blockchain-powered\n– In-chat ADM/ ETH/ BTC/ etc. payments (in development for iOS platform)\n– Get welcome 0.09 ADM token for free messaging now\n"
+			"value": "ADAMANT ist der sicherste und anonymste Messenger, verrschlüsselt mit der Blockchain.\n\nHighlights:\n\n– Der sicherste und anonymste Messenger. (siehe Vergleichstabelle)\n– Vertraulich. Open-Source-Projekt.\n– Der einzige in der Blockchain\n– ADM/ ETH/ BTC/ etc. Zahlungen im Chat (in Entwicklung für iOS)\n– Erhalten Sie kostenlose 0.09 ADM-Tokens zum Ausprobieren\n"
 		},
 		"support-url": {
 			"description": "A URL with support information for your app. This URL will be visible on the App Store",
